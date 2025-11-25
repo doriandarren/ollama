@@ -22,7 +22,7 @@ ollama list
 # ollama run llama3.1:8b
 
 
-ollama pull gpt-oss:20b
+ollama pull gpt-oss:latest
 # Alternativas muy buenas:
 # ollama pull llama3.1:8b
 # ollama pull mistral:7b
